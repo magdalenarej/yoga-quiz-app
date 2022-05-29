@@ -323,3 +323,5 @@ const data = [{
     "img_url": "https://www.dropbox.com/s/d1dbdvo4l7xry4w/downdogflip.svg?raw=1",
     answers: ["Camatkarasana", "Ardha Navasana", "Dhanurasana"]
 }];
+
+export default data
