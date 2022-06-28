@@ -1,6 +1,6 @@
 # Yoga-quiz app 🧘‍♀️
 
-Quick yoga quiz about the names of asanas in Sanskrit
+Quick yoga quiz! Guess names of asanas in Sanskrit
 
 ## Installation
 
@@ -8,7 +8,7 @@ Install yoga-quiz app with npm
 
 ```bash
   npm install yoga-quiz-app
-  cd yyoga-quiz-app
+  cd yoga-quiz-app
 ```
 
 ## Tech Stack
@@ -17,8 +17,11 @@ JS, React with hooks (useState, useContext, useReducer), Ant design
 
 ## Screenshots
 
+Welocme screen
 ![App Screenshot](src/img/welcome.png)
+Question card
 ![App Screenshot](src/img/question.png)
+Result Card
 ![App Screenshot](src/img/result.png)
 
 ## Features
