@@ -1,0 +1,18 @@
+{
+    "sourceFile": "README.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1656443801543,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1656443801543,
+            "name": "Commit-0",
+            "content": "# Yoga-quiz app 🧘‍♀️\n\nQuick yoga quiz about the names of asanas in Sanskrit\n\n## Installation\n\nInstall yoga-quiz app with npm\n\n```bash\n  npm install yoga-quiz-app\n  cd yyoga-quiz-app\n```\n\n## Tech Stack\n\nJS, React with hooks (useState, useContext, useReducer), Ant design\n\n## Screenshots\n\n![App Screenshot](src/img/welcome.png)\n![App Screenshot](src/img/question.png)\n![App Screenshot](src/img/result.png)\n\n## Features\n\n-user has to enter his name to start quiz 👩🏼‍💻\n\n-user gets 5 random questions (picture of yoga pose) and has to choose correct sanscrit name 🧘‍♀️\n\n-on the end of quiz user gets a result and can start new quiz 🏆\n"
+        }
+    ]
+}

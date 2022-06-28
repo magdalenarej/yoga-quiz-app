@@ -20,7 +20,7 @@ const Welcome = ({ setIsLogged }) => {
     }
     
     return (
-        <Card style={{padding: '20px'}}>
+        <Card style={{padding: '20px', minWidth: 300, textAlign: 'center'}}>
             <h2>Welcome to yoga-quiz!</h2>
             <h3>Please, enter you name to continue</h3>
             <Input

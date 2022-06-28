@@ -1,7 +1,11 @@
+import data from "../data/data";
+
 export const initialState = {
     quizCounter: 0,
     score: 0,
     userName: '',
+    questions: data
+    
 }
 
 const quizReducer = (state, action) => {

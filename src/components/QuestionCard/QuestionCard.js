@@ -12,9 +12,10 @@ const QuestionCard = ({question}) => {
         <Card
             key={question.id}
             title={`Question ${quiz.quizCounter + 1}/5`}
-            style={{width: 300, height: 600}}
+            style={{width: 300}}
             bordered={false}
             cover={<Image 
+                preview={false}
                 alt="yoga pose" 
                 src={question.img_url} 
                 style={{padding: '2rem', height: 300}} 
@@ -22,8 +23,8 @@ const QuestionCard = ({question}) => {
             />}>
             <Meta title={'sanskrit name:'} style={{padding: '1rem 0'}}/>
             <Questions
-                question={question}
-                answers={question.answers}
+                questions={question}
+                answer={question.sanskrit_name}
             />
         </Card>
     );
