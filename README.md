@@ -15,7 +15,7 @@ Install yoga-quiz app with npm
 
 JS, React with hooks (useState, useContext, useReducer), Ant design
 
-##Demo
+## Demo
 🧘‍♀️ https://magdalenarej.github.io/yoga-quiz-app/ 🧘‍♀️
 
 ## Screenshots
