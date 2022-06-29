@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/yoga-quiz-app/static/css/main.ab09b110.css",
+    "main.js": "/yoga-quiz-app/static/js/main.121e1b3f.js",
+    "static/media/yoga.jpeg": "/yoga-quiz-app/static/media/yoga.9047e20942a6644428f1.jpeg",
+    "index.html": "/yoga-quiz-app/index.html",
+    "main.ab09b110.css.map": "/yoga-quiz-app/static/css/main.ab09b110.css.map",
+    "main.121e1b3f.js.map": "/yoga-quiz-app/static/js/main.121e1b3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab09b110.css",
+    "static/js/main.121e1b3f.js"
+  ]
+}
