@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 1,
+            "activePatchIndex": 2,
             "patches": [
                 {
                     "date": 1656443801543,
@@ -12,6 +12,10 @@
                 {
                     "date": 1656444057628,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,25 +1,28 @@\n # Yoga-quiz app 🧘‍♀️\n \n-Quick yoga quiz about the names of asanas in Sanskrit\n+Quick yoga quiz! Guess names of asanas in Sanskrit\n \n ## Installation\n \n Install yoga-quiz app with npm\n \n ```bash\n   npm install yoga-quiz-app\n-  cd yyoga-quiz-app\n+  cd yoga-quiz-app\n ```\n \n ## Tech Stack\n \n JS, React with hooks (useState, useContext, useReducer), Ant design\n \n ## Screenshots\n \n+Welocme screen\n ![App Screenshot](src/img/welcome.png)\n+Question card\n ![App Screenshot](src/img/question.png)\n+Result Card\n ![App Screenshot](src/img/result.png)\n \n ## Features\n \n"
+                },
+                {
+                    "date": 1656524154122,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -14,11 +14,14 @@\n ## Tech Stack\n \n JS, React with hooks (useState, useContext, useReducer), Ant design\n \n+##Demo\n+🧘‍♀️ https://magdalenarej.github.io/yoga-quiz-app/ 🧘‍♀️\n+\n ## Screenshots\n \n-Welocme screen\n+Welcome screen\n ![App Screenshot](src/img/welcome.png)\n Question card\n ![App Screenshot](src/img/question.png)\n Result Card\n"
                 }
             ],
             "date": 1656443801543,
